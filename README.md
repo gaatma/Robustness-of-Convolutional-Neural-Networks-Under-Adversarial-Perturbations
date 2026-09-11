@@ -218,8 +218,8 @@ This evaluation demonstrates that standard CNNs are fundamentally vulnerable to 
 ## Author
 
 **Gifty Acquah**  
-PhD Candidate, Cybersecurity & Federated Learning  
-Concordia University | Hydro-Québec  
+PhD Candidate | Agentic AI Safety | Trustworthy Multi-Agent Systems | Critical Infrastructure Security
+Concordia University 
 Email: giftyacquah999@gmail.com
 
 ## License
